@@ -82,13 +82,13 @@ export function About() {
                 About Me
               </h1>
               <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
-              <p>Thank you for taking the time to read my background. I have always been interested in problem solving especially in the context of data science, analytics, and/or machine learning. At the moment, I am also exploring topics on large language model applications.  I am also an avid painter and dancer.</p>
+              <p>Thank you for taking the time to visit my portfolio. My goal here is to communicate my professional progress as well as to present myself as a valuable contributor to your team or next project. I am currently seeking roles in full stack software engineer - Python, analytics engineer, and data analyst.</p>
 
-              <p>I was born and raised in the Bay Area. I currently reside in downtown San Jose. I developed an interest in computers and gaming at an early age, starting with MMORPG World of Warcraft. I attended UC Santa Barbara, earning my bachelor’s degree in statistics and data science last Spring (June 2023).</p>
+              <p>I am proficient with backend using Python and have working knowledge of ReactJs (NextJs/Tailwind CSS, like this site). I am familiar with GCP and AWS, as well as other providers like Supabase and Digital Ocean.</p>
 
-              <p>While pursuing my degree, I worked in a part-time capacity as a Junior Data Scientist for Vintra (acq. by Alarm.com) where I worked on creating KPI dashboards for the product and sales team. The highlight of my work at Vintra was when I presented a dashboard I built as a product feature to one of the execs at a large social media company. That was a great experience.</p>
+              <p>While I am in the hunt for my next role, I've co-founded a <a href='https://thedxcompany.com/' target='_blank' className='font-bold text-teal-600 dark:text-teal-400'>data analytics engineering studio and technology lab</a>. I believe that being in motion expands my chance of success in life. It also allows me develop marketable skills and test-build emerging technologies (like GenAI).</p>
 
-              <p>I love to explore new technologies and challenges. I am eager to learn new things and improve my developer skills. I am looking to join a product engineering team as a technical Data Scientist or Software Engineer - Python developer.</p>
+              <p>I look forward to connecting with you. Please reach out if you think we're a great fit, either in a full-time roles or as a customer for my company.</p>
               </div>
             </div>
             <div className="lg:pl-20">
